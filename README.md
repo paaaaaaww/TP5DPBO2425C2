@@ -6,6 +6,7 @@ Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain da
 **3. Dokumentasi**
    
    **A. ADD**
+   
    Prompt error jika masih ada kolom input yang kosong saat add data.
    ![add 5](Dokumentasi/add5.png)
 
@@ -21,11 +22,13 @@ Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain da
    
 
    **B. Update**
+   
    Prompt error jika masih ada kolom input yang kosong saat update data.
    ![update 1](Dokumentasi/update1.png)
 
    
    **C. Delete**
+   
    Data pada Database akan ikut terhapus
    ![delete 1](Dokumentasi/delete1.png)
    ![delete 2](Dokumentasi/delete2.png)
