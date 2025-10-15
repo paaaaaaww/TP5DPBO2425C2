@@ -4,3 +4,7 @@ Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain da
 1. Desain Program
 2. Penjelasan Alur
 3. Dokumentasi
+   A. ADD
+   ![]
+   B. Update
+   C. Delete
