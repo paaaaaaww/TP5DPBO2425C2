@@ -4,9 +4,9 @@ Saya Fauzia Rahma Nisa mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain da
 **1. Desain Program**
 
    Program ini dibuat pakai Java Swing buat ngatur data produk kecantikan. Semua data disimpan di database MySQL, jadi waktu kita add, update, atau delete produk, datanya langsung ke-update di database. Ada tiga file utama: 
-   - Database.java -> buat ngatur koneksi antara program dan MySQL, juga ngelakuin query seperti SELECT, INSERT, UPDATE, dan DELETE.
-   - Product.java -> buat nyimpen struktur data produk seperti id, nama, harga, kategori, SkinType, dan Merk.
-   - ProductMenu.java -> yang jadi tampilan utama tempat semua fitur CRUD dijalankan.
+   - Database.java : buat ngatur koneksi antara program dan MySQL, juga ngelakuin query seperti SELECT, INSERT, UPDATE, dan DELETE.
+   - Product.java : buat nyimpen struktur data produk seperti id, nama, harga, kategori, SkinType, dan Merk.
+   - ProductMenu.java : yang jadi tampilan utama tempat semua fitur CRUD dijalankan.
 
 Program ini juga pakai JTable buat nampilin data produk secara real-time dari database dan JComboBox buat pilihan kategori serta jenis kulit.
 
